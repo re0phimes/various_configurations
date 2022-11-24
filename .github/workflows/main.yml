@@ -1,0 +1,9 @@
+- name: sync
+  uses: Yikun/hub-mirror-action@master
+  with:
+    src: github/re0phimes
+    dst: gitee/Laphirentia
+    dst_key: ${{ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC6QeeQCOhSWaUp8uH7gcgLvIkr0WuoMbcwALzW9r7Bk2yaqNCBA5/zGuij36LDlqo1Tr/2qtENGW8KrM/e/x46Hbnvf5ZJ5Z55UWpYD8tVMOU2HOUgY6mREzj+oz3T+5dHh2RHAJKXOfzw7XFsDAs7xJ7A+f1dd35xWZRtndpa09dUDPUJqJpWB7ygfKhjalI2GH8AJqk39fd6E5loOlNlQRJfyvQ+9Kow4plg+/8J8x+iljNDPjLWgV2g7kXDHY5i6ApacdAAOKr2z0u6+o71CEEOhGytso056jqjFFVESQZRk9W03kdq7KDRbMK4y3xPlBAw00Sogf1/I9IXqX/33Gucpfo1xWyep52PzaKAYhsMsNyhHoxd1dRUNzN5V/f+q7CbbRt0NYWf1neXHMr9e3SwXdkwC/klHwbAtYQt7aIUxj0/8q6oJ25n06QDHKUmBhnSAfrjdjKAD8li/jpz21gdTj0svtNeU0mQL4lfoxv/aedlk5cDqS+wouGhTuk= re0phimes@outlook.com
+ }}
+    dst_token: ${{ 16249c869598b961ab1db5ccc2d12a3c }}
+    static_list: "various_configurations"
